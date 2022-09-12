@@ -16,9 +16,8 @@ console.log(str_comillas_dobles)
 
 ////// Comillas invertidas (backticks)
 let str_backticks = `Hola esto es un string con backticks`
-
 console.log(str_backticks)
-
+//las backticks nos permiten ingresar una variable a nuestra cadena de texto
 let nombre = "Iñigo"
 let saludo = `Hola, ${nombre} bienvenido`
 
